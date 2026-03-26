@@ -1,0 +1,49 @@
+frontend_vue/src/components/tokens/types.ts
+  0ada29c47ec03436 99-102,186-189
+frontend_vue/src/utils/tokenServices.ts
+  0ada29c47ec03436 132-146
+switchboard/switchboard.tac
+  0ada29c47ec03436 24,179-184
+canarytokens/npmtokens.py
+  0ada29c47ec03436 1-146
+canarytokens/settings.py
+  0ada29c47ec03436 118-119,150
+canarytokens/queries.py
+  0ada29c47ec03436 315-325
+canarytokens/models/npm_publish.py
+  0ada29c47ec03436 1-55
+frontend/app.py
+  0ada29c47ec03436 67,157-158,189-190,1512-1525,2023-2071
+frontend_vue/src/utils/formValidators.ts
+  0ada29c47ec03436 88-90
+frontend_vue/src/components/constants.ts
+  0ada29c47ec03436 44,86,237
+canarytokens/models/common.py
+  0ada29c47ec03436 126,140,179,187-190,700
+frontend/frontend.env.dist
+  0ada29c47ec03436 36-37,51
+canarytokens/models/__init__.py
+  0ada29c47ec03436 159-167,373,417,458,501,534
+canarytokens/canarydrop.py
+  0ada29c47ec03436 176-181
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.19",
+  "base_commit_sha": "bdc10b521d2bfa51d02f57be480e3f1a66c2dda3",
+  "prompts": {
+    "0ada29c47ec03436": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d27e9-3b50-7ff2-9a91-72f365bbf371",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Nick Sweeting <git@sweeting.me>",
+      "messages": [],
+      "total_additions": 357,
+      "total_deletions": 1,
+      "accepted_lines": 356,
+      "overriden_lines": 0
+    }
+  }
+}
